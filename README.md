@@ -58,9 +58,9 @@ streamlit run app.py
 
 ```
 charttalk/
-├── app.py            # Streamlit UI
-├── agent.py          # LangChain agent + chart capture logic
-├── utils.py          # Dataset summary + question suggestions
+├── app.py            
+├── agent.py         
+├── utils.py        
 ├── requirements.txt
-└── .env              # Your API key (never committed)
+└── .env              
 ```
