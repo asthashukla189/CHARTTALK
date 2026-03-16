@@ -6,7 +6,7 @@ Built with **Streamlit**, **LangChain**, and **Groq (Llama 3.3 70B)**.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Upload any CSV file and start chatting instantly
 - Ask data questions in plain English — get real answers
@@ -15,7 +15,7 @@ Built with **Streamlit**, **LangChain**, and **Groq (Llama 3.3 70B)**.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -42,7 +42,7 @@ streamlit run app.py
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Tool |
 |---|---|
